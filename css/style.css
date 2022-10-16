@@ -1213,7 +1213,6 @@ body::after {
   .featured__list {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: (80px)[2];
     grid-template-columns: repeat(2, 80px);
   }
 }
@@ -1352,7 +1351,6 @@ body::after {
   .featured__list {
     display: -ms-grid;
     display: grid;
-    -ms-grid-columns: (100px)[3];
     grid-template-columns: repeat(3, 100px);
   }
 
